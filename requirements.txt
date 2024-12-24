@@ -1,0 +1,6 @@
+llama-index-llms-ollama
+# nbformat
+pandas
+seaborn
+matplotlib
+ipywidgets
