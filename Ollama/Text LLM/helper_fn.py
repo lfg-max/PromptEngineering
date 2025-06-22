@@ -11,10 +11,12 @@ pd.set_option('display.max_colwidth', None)
 
 # Define the options for the dropdown menu
 llm_options = [
+    'deepseek-r1:8b',
+    'qwen3:latest',
     'llama3.2',
     'mistral',
     'marco-o1',
-    'qwen2.5-coder'
+    'qwen2.5-coder',
 ]
 
 # Create a dropdown widget
